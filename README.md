@@ -1,4 +1,4 @@
-# Hatio : Take Home Challenge
+# PlanDeck –  Dashboard for planning and tracking work.
 
 This is a Flutter application that helps users manage their projects and todos. The app allows users to create and manage projects, add todos to each project, and perform various actions such as marking todos as done, updating or deleting them. The application uses Firebase for authentication and Firestore for data storage.
 
